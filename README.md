@@ -1,2 +1,4 @@
 # freelance-data-projects
-Projetos de engenharia de dados voltados para freelancing e consultoria
+
+Data engineering projects focused on freelancing and consulting opportunities.  
+This repository showcases practical examples of data pipelines, data cleaning, automation, and integration using tools like Python, SQL, and ETL platforms.
